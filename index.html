@@ -3,54 +3,54 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Kali005 Store</title>
+<title>Web Seller</title>
 <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
 <header class="navbar">
-  <h2>Kali005 Store 🛍️</h2>
-  <div class="cart">🛒 <span id="cart-count">0</span></div>
+  <h2>WebSeller 🚀</h2>
+  <button onclick="showCart()">🛒 Cart (<span id="cart-count">0</span>)</button>
 </header>
 
 <section class="hero">
-  <h1>Premium Products</h1>
-  <p>Best quality items just for you</p>
+  <h1>Buy Premium Websites 💻</h1>
+  <p>Landing Pages • Portfolios • E-commerce Templates</p>
 </section>
 
 <section class="products">
 
-  <div class="product">
-    <img src="https://images.unsplash.com/photo-1511707171634-5f897ff02aa9">
-    <h3>Smartphone</h3>
-    <p>$499</p>
-    <button onclick="addToCart('Smartphone')">Add to Cart</button>
+  <div class="card">
+    <h3>Landing Page</h3>
+    <p>Modern UI design</p>
+    <h4>$49</h4>
+    <button onclick="buy('Landing Page')">Buy</button>
   </div>
 
-  <div class="product">
-    <img src="https://images.unsplash.com/photo-1517336714731-489689fd1ca8">
-    <h3>Laptop</h3>
-    <p>$899</p>
-    <button onclick="addToCart('Laptop')">Add to Cart</button>
+  <div class="card">
+    <h3>Portfolio Website</h3>
+    <p>Personal branding site</p>
+    <h4>$79</h4>
+    <button onclick="buy('Portfolio Website')">Buy</button>
   </div>
 
-  <div class="product">
-    <img src="https://images.unsplash.com/photo-1518449030925-50d4b36c1f0f">
-    <h3>Headphones</h3>
-    <p>$199</p>
-    <button onclick="addToCart('Headphones')">Add to Cart</button>
+  <div class="card">
+    <h3>E-commerce Site</h3>
+    <p>Online store template</p>
+    <h4>$99</h4>
+    <button onclick="buy('E-commerce Site')">Buy</button>
   </div>
 
 </section>
 
-<section class="cart-section">
-  <h2>Your Cart</h2>
+<section class="cart-section" id="cart-box">
+  <h2>Your Orders</h2>
   <ul id="cart-items"></ul>
 </section>
 
 <footer>
-  <p>© 2026 Kali005 Store</p>
+  <p>© 2026 WebSeller</p>
 </footer>
 
 <script src="script.js"></script>
