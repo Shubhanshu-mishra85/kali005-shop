@@ -2,7 +2,7 @@
   <b>Modern • Scalable • Business-Oriented Website UI</b><br>
   A GoDaddy-inspired web services platform built using HTML, CSS & JavaScript
 </p><p align="center">
-  <a href="https://shubhanshu-mishra85.github.io/kali007/">
+  <a href="[https://shubhanshu-mishra85.github.io/kali007/](https://shubhanshu-mishra85.github.io/kali005-shop/)">
     <img src="https://img.shields.io/badge/🌐 Live Demo-Visit Website-blue?style=for-the-badge">
   </a>
   <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge">
