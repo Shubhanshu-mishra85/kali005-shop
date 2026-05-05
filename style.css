@@ -1,8 +1,8 @@
 body{
   margin:0;
   font-family:sans-serif;
-  background:#0f172a;
   color:white;
+  background:#0f172a;
 }
 
 /* Navbar */
@@ -16,51 +16,78 @@ body{
 /* Hero */
 .hero{
   text-align:center;
-  padding:60px;
+  padding:80px 20px;
   background:linear-gradient(135deg,#4f46e5,#9333ea);
 }
 
-/* Products */
-.products{
+.search-box{
+  margin-top:20px;
+}
+
+.search-box input{
+  padding:12px;
+  width:250px;
+  border-radius:20px;
+  border:none;
+}
+
+.search-box button{
+  padding:12px;
+  border:none;
+  border-radius:20px;
+  background:#6366f1;
+  color:white;
+}
+
+/* Services */
+.services{
   display:flex;
   justify-content:center;
   gap:20px;
-  padding:40px;
-  flex-wrap:wrap;
+  padding:50px;
 }
 
-.card{
+.service-card{
   background:#1e293b;
   padding:20px;
   border-radius:15px;
-  width:220px;
+  width:200px;
   text-align:center;
   transition:0.3s;
 }
 
-.card:hover{
+.service-card:hover{
   transform:translateY(-10px);
 }
 
-button{
-  padding:10px;
-  background:#6366f1;
-  border:none;
-  color:white;
-  border-radius:10px;
-  cursor:pointer;
+/* Pricing */
+.pricing{
+  display:flex;
+  justify-content:center;
+  gap:20px;
+  padding:50px;
 }
 
-/* Cart */
-.cart-section{
-  padding:40px;
-  display:none;
+.price-card{
+  background:#1e293b;
+  padding:30px;
+  border-radius:15px;
   text-align:center;
+}
+
+.premium{
+  background:linear-gradient(135deg,#6366f1,#a855f7);
+}
+
+/* CTA */
+.cta{
+  text-align:center;
+  padding:60px;
+  background:#020617;
 }
 
 /* Footer */
 footer{
-  padding:20px;
   text-align:center;
-  background:#020617;
+  padding:20px;
 }
