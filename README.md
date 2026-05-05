@@ -1,40 +1,46 @@
-<h1 align="center">🛍️ Kali005 Store - E-commerce Website</h1><p align="center">
-  <b>A Modern & Responsive Product Selling Website</b><br>
-  Built with ❤️ using HTML, CSS & JavaScript
+<h1 align="center">🚀 Kali007 - Premium Web Selling Platform</h1><p align="center">
+  <b>Modern • Scalable • Business-Oriented Website UI</b><br>
+  A GoDaddy-inspired web services platform built using HTML, CSS & JavaScript
 </p><p align="center">
+  <a href="https://shubhanshu-mishra85.github.io/kali007/">
+    <img src="https://img.shields.io/badge/🌐 Live Demo-Visit Website-blue?style=for-the-badge">
+  </a>
   <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/UI-Premium-purple?style=for-the-badge">
   <img src="https://img.shields.io/badge/Made%20by-Shubhanshu%20Mishra-orange?style=for-the-badge">
 </p>---
 
-🖥️ Live Demo
+🖥️ Live Preview
 
-👉 https://shubhanshu-mishra85.github.io/kali005-shop/
-
----
-
-🎯 About Project
-
-Kali005 Store is a modern e-commerce frontend website designed to showcase products and simulate an online shopping experience.
-
-Users can browse products and add items to the cart dynamically using JavaScript.
+👉 https://shubhanshu-mishra85.github.io/kali007/
 
 ---
 
-✨ Features
+🎯 About the Project
 
-- 🛍️ Product listing section
-- ➕ Add to cart functionality
-- 🧾 Dynamic cart updates
-- 🎨 Clean & modern UI
-- 📱 Fully responsive design
-- ⚡ Fast loading
+Kali007 is a premium web-selling platform UI inspired by modern SaaS websites like GoDaddy.
+It is designed to showcase and sell website services such as landing pages, portfolios, and e-commerce solutions.
+
+The project focuses on delivering a clean, business-ready interface with modern UI/UX principles, making it ideal for freelancers, startups, and digital service providers.
+
+---
+
+✨ Key Features
+
+- 🌐 Website selling platform concept
+- 🔍 Search-style hero section (GoDaddy inspired)
+- 🎨 Premium gradient UI design
+- 💼 Service-based layout (Landing, Portfolio, E-commerce)
+- 💰 Pricing section with call-to-action
+- 🚀 Smooth and interactive user experience
+- 📱 Fully responsive across all devices
 
 ---
 
 📸 Preview
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1607083206968-13611e3d76db" width="80%">
+  <img src="https://images.unsplash.com/photo-1559028012-481c04fa702d" width="85%">
 </p>---
 
 🛠️ Tech Stack
@@ -47,38 +53,39 @@ Users can browse products and add items to the cart dynamically using JavaScript
 
 📂 Project Structure
 
-kali005-shop/
+kali007/
 │
 ├── index.html
 ├── style.css
-└── script.js
+├── script.js
+└── README.md
 
 ---
 
 🚀 Getting Started
 
-git clone https://github.com/shubhanshu-mishra85/kali005-shop.git
-cd kali005-shop
+git clone https://github.com/shubhanshu-mishra85/kali007.git
+cd kali007
 open index.html
 
 ---
 
 💡 How It Works
 
-- Users click "Add to Cart" button
-- JavaScript dynamically updates cart items
-- Cart count increases in real-time
-- Items display in cart section
+- Users browse available website services
+- Select pricing plans based on their needs
+- Interact with UI elements like search and buttons
+- Simulated purchase flow using JavaScript
 
 ---
 
-🔮 Future Improvements
+🔮 Future Enhancements
 
-- ❌ Remove from cart option
-- 💳 Checkout page
-- 🔍 Product search
-- ⭐ Ratings & reviews
-- 🧑 User login system
+- 💳 Payment integration (Stripe / Razorpay)
+- 🔐 User authentication system
+- 📥 Downloadable website templates
+- 🌙 Dark / Light mode toggle
+- ⚛️ React / Next.js upgrade
 
 ---
 
@@ -95,6 +102,6 @@ https://www.linkedin.com/in/shubhanshu-mishra-56ba69303
 
 ⭐ Support
 
-If you like this project, don’t forget to ⭐ the repository!
+If you found this project useful, consider giving it a ⭐ on GitHub and sharing it!
 
 ---
