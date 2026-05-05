@@ -2,7 +2,7 @@
   <b>Modern • Scalable • Business-Oriented Website UI</b><br>
   A GoDaddy-inspired web services platform built using HTML, CSS & JavaScript
 </p><p align="center">
-  <a href="[https://shubhanshu-mishra85.github.io/kali007/](https://shubhanshu-mishra85.github.io/kali005-shop/)">
+  <a href="https://shubhanshu-mishra85.github.io/kali005-shop/">
     <img src="https://img.shields.io/badge/🌐 Live Demo-Visit Website-blue?style=for-the-badge">
   </a>
   <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge">
@@ -12,7 +12,7 @@
 
 🖥️ Live Preview
 
-👉 https://shubhanshu-mishra85.github.io/kali007/
+👉 https://shubhanshu-mishra85.github.io/kali005-shop/
 
 ---
 
@@ -32,7 +32,7 @@ The project focuses on delivering a clean, business-ready interface with modern 
 - 🎨 Premium gradient UI design
 - 💼 Service-based layout (Landing, Portfolio, E-commerce)
 - 💰 Pricing section with call-to-action
-- 🚀 Smooth and interactive user experience
+- ⚡ Interactive UI with JavaScript
 - 📱 Fully responsive across all devices
 
 ---
@@ -53,7 +53,7 @@ The project focuses on delivering a clean, business-ready interface with modern 
 
 📂 Project Structure
 
-kali007/
+kali005-shop/
 │
 ├── index.html
 ├── style.css
@@ -64,18 +64,18 @@ kali007/
 
 🚀 Getting Started
 
-git clone https://github.com/shubhanshu-mishra85/kali007.git
-cd kali007
+git clone https://github.com/shubhanshu-mishra85/kali005-shop.git
+cd kali005-shop
 open index.html
 
 ---
 
 💡 How It Works
 
-- Users browse available website services
-- Select pricing plans based on their needs
-- Interact with UI elements like search and buttons
-- Simulated purchase flow using JavaScript
+- Users explore different website services
+- Choose plans based on requirements
+- Click actions simulate purchasing flow
+- UI interactions handled using JavaScript
 
 ---
 
@@ -83,8 +83,8 @@ open index.html
 
 - 💳 Payment integration (Stripe / Razorpay)
 - 🔐 User authentication system
-- 📥 Downloadable website templates
-- 🌙 Dark / Light mode toggle
+- 📥 Downloadable templates
+- 🌙 Dark/Light mode
 - ⚛️ React / Next.js upgrade
 
 ---
@@ -102,6 +102,6 @@ https://www.linkedin.com/in/shubhanshu-mishra-56ba69303
 
 ⭐ Support
 
-If you found this project useful, consider giving it a ⭐ on GitHub and sharing it!
+If you like this project, don’t forget to ⭐ the repository!
 
 ---
