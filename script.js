@@ -1,3 +1,2 @@
-function buy(plan){
-  alert(plan + " purchased successfully 🚀");
-}
+<link rel="stylesheet" href="style.css">
+<script src="script.js"></script>
